@@ -1,0 +1,9 @@
+OT_GE2E
+
+30 epochs:
+Acc: 97.31% NMI: 95.92% ARI: 94.31%
+
+20 epochs
+Acc: 96.72% NMI: 94.91%	ARI: 93.10%
+
+
